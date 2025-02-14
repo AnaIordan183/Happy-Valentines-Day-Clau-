@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>100 Reasons to Marry You</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>100 Reasons Why I Want to Marry You 💖</h1>
+    <p>And ask you to be my Valentine! 💌</p>
+  </header>
+
+  <div class="motives">
+    <ul>
+      <li>You make me feel loved every single day.</li>
+      <li>You make me laugh even when I don’t feel like smiling.</li>
+      <li>You bring out the best version of myself.</li>
+      <li>You always know exactly what I need, even before I do.</li>
+      <li>You love me for exactly who I am, flaws and all.</li>
+      <!-- Add all the 100 reasons here -->
+      <li>I want to spend forever with you and make countless memories.</li>
+      <li>Your smile is my favorite thing in the world.</li>
+      <li>You make me feel safe and protected.</li>
+      <li>You’re my best friend and soulmate all in one.</li>
+      <li>I can’t wait to be your Valentine forever! 💘</li>
+    </ul>
+  </div>
+
+  <footer>
+    <p>Will you be my Valentine? 💖</p>
+    <button id="askBtn">Yes, I will!</button>
+  </footer>
+
+</body>
+</html>
+
